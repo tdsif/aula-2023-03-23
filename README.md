@@ -1,1 +1,10 @@
-# aula-2023-03-23
+# MVC
+
+Model (modelo)
+View (visão/apresentação)
+Controller (controlador)
+
+Existem outros:
+
+MVVM: Model View ViewModel
+MVP: Model View Presenter
